@@ -1,0 +1,63 @@
+
+
+
+ {font-size: 50px; color: rgb(119, 126, 231);
+    
+    margin: 30px 10px;
+    
+ }
+ header p { margin: auto;}
+
+
+    .hi{color: rgb(199, 191, 230); font-size: x-large;}
+
+    header nav p {
+        display: inline-block;
+        vertical-align: middle;
+     } 
+     nav li  {display: inline-block; margin: 20px 20px 20px 20px;}
+
+     header, nav  {display: flex;}
+ nav {gap: 15px;}
+ header nav p { 
+    display: inline-block;
+    vertical-align: middle;
+   } 
+
+   
+   header{background-color: rgb(213, 170, 253); border-radius: 10px;}
+
+   .hi{color: rgb(135, 109, 230); font-size: x-large;}
+ #logo{color: rgb(135, 109, 230)}
+ header p { margin: auto;}
+ nav li  {display: inline-block; margin: 20px 20px 20px 20px;}
+
+ #logo{font-size: xx-large;}
+ .hallo{color: rgb(248, 96, 185); font-size: x-large; display: inline-block; }
+
+h1{
+
+color: rgb(155, 133, 252);
+
+margin-top: 50px;
+}
+
+#submit-btn { 
+ margin-top: 20px;
+ font-size: 16px;
+padding: 15px 25px;
+background-color: rgb(161, 145, 233);
+color: aliceblue;
+border: none;
+border-radius: 19px;
+}
+
+
+#submit-btn:hover{
+
+cursor: pointer;
+background-color: rgb(252, 155, 255);
+
+}
+
+footer{color: rgb(161, 118, 241); background-color: rgb(220, 183, 255); border-radius: 10px; }
